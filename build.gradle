@@ -9,7 +9,7 @@ project.ext.modID = "s1v.craftabletraps" // The unique id of your mod. Must be a
 project.ext.modName = "Craftable-Traps" // The display name of your mod.
 project.ext.modVersion = "1.0" // Your current builds version. Must follow the xx.xx... format.
 project.ext.gameVersion = "1.0.3" // The target game version.
-project.ext.modDescription = "I need You." // Short description of what your mod is.
+project.ext.modDescription = "I need more Trap, Kill them all raiders. " // Short description of what your mod is.
 project.ext.author = "s1v" // Your name
 
 /**
