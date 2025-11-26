@@ -1,3 +1,2 @@
-An example mod for Necesse.
-
-Check out the [modding wiki page](https://necessewiki.com/Modding) for more.
+# I need more Trap, Kill them all raiders.  
+This mod adds recipes for creating 4 types of traps (Arrow/Flame/Void/Saw).
