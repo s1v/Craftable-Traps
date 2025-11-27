@@ -116,54 +116,5 @@ public class Arrow {
                             new Ingredient("spidercastlewall", 10)
                     }
             ),
-            new Recipe(
-                    "pinearrowtrap", 1, RecipeTechRegistry.WORKSTATION,
-                    new Ingredient[]{
-                            new Ingredient("stonearrow", 10),
-                            new Ingredient("pinewall", 10)
-                    }
-            ),
-            new Recipe(
-                    "palmarrowtrap", 1, RecipeTechRegistry.WORKSTATION,
-                    new Ingredient[]{
-                            new Ingredient("stonearrow", 10),
-                            new Ingredient("palmwall", 10)
-                    }
-            ),
-            new Recipe(
-                    "brickarrowtrap", 1, RecipeTechRegistry.WORKSTATION,
-                    new Ingredient[]{
-                            new Ingredient("stonearrow", 10),
-                            new Ingredient("brickwall", 10)
-                    }
-            ),
-            new Recipe(
-                    "bambooarrowtrap", 1, RecipeTechRegistry.WORKSTATION,
-                    new Ingredient[]{
-                            new Ingredient("stonearrow", 10),
-                            new Ingredient("bamboowall", 10)
-                    }
-            ),
-            new Recipe(
-                    "dawnarrowtrap", 1, RecipeTechRegistry.WORKSTATION,
-                    new Ingredient[]{
-                            new Ingredient("stonearrow", 10),
-                            new Ingredient("dawnwall", 10)
-                    }
-            ),
-            new Recipe(
-                    "duskarrowtrap", 1, RecipeTechRegistry.WORKSTATION,
-                    new Ingredient[]{
-                            new Ingredient("stonearrow", 10),
-                            new Ingredient("duskwall", 10)
-                    }
-            ),
-            new Recipe(
-                    "cryptarrowtrap", 1, RecipeTechRegistry.WORKSTATION,
-                    new Ingredient[]{
-                            new Ingredient("stonearrow", 10),
-                            new Ingredient("cryptwall", 10)
-                    }
-            ),
     };
 }
